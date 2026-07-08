@@ -228,7 +228,7 @@ export default function App() {
         </div>
 
         <p className="mt-4 text-center text-xs text-slate-400">
-          React + Tailwind · Express REST API · Supabase (PostgreSQL)
+          Copyright © 2026 Tachanon Srisook
         </p>
       </div>
 
